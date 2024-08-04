@@ -51,6 +51,6 @@ Tidydata2 <- tidydata |>
   group_by(activity, subject) |>
   summarise_all(funs(mean))
 
-
+write.csv(Tidydata2, "Tidydata.csv")
 
 
