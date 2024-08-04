@@ -1,4 +1,5 @@
 # tidydata
+# Assignment: Getting and Cleaning Data Course Project, week4
 
 ## Module 1
 ### Module 1 is to load dat files (test and train) to R and merged 2 dataets as 1.
