@@ -21,4 +21,4 @@
 ## Module 5
 ### Module 5 is to get variable means after group by activity and subject
 
-# Final tidydata is assigned to Tidydata2 object
+# Final tidydata is assigned to Tidydata2 object and saved to tidydata.csv
